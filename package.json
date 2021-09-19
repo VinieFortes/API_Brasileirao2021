@@ -1,0 +1,17 @@
+{
+  "name": "brasileirao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tabelaSerieA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vinicius Fortes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
